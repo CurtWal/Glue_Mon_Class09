@@ -1,0 +1,15 @@
+/home/curtrick/code_401/glue/Glue_Mon_Class09/Assignment2/obj/Debug/net6.0/Assignment2.csproj.AssemblyReference.cache
+/home/curtrick/code_401/glue/Glue_Mon_Class09/Assignment2/obj/Debug/net6.0/Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+/home/curtrick/code_401/glue/Glue_Mon_Class09/Assignment2/obj/Debug/net6.0/Assignment2.AssemblyInfoInputs.cache
+/home/curtrick/code_401/glue/Glue_Mon_Class09/Assignment2/obj/Debug/net6.0/Assignment2.AssemblyInfo.cs
+/home/curtrick/code_401/glue/Glue_Mon_Class09/Assignment2/obj/Debug/net6.0/Assignment2.csproj.CoreCompileInputs.cache
+/home/curtrick/code_401/glue/Glue_Mon_Class09/Assignment2/bin/Debug/net6.0/Assignment2
+/home/curtrick/code_401/glue/Glue_Mon_Class09/Assignment2/bin/Debug/net6.0/Assignment2.deps.json
+/home/curtrick/code_401/glue/Glue_Mon_Class09/Assignment2/bin/Debug/net6.0/Assignment2.runtimeconfig.json
+/home/curtrick/code_401/glue/Glue_Mon_Class09/Assignment2/bin/Debug/net6.0/Assignment2.dll
+/home/curtrick/code_401/glue/Glue_Mon_Class09/Assignment2/bin/Debug/net6.0/Assignment2.pdb
+/home/curtrick/code_401/glue/Glue_Mon_Class09/Assignment2/obj/Debug/net6.0/Assignment2.dll
+/home/curtrick/code_401/glue/Glue_Mon_Class09/Assignment2/obj/Debug/net6.0/refint/Assignment2.dll
+/home/curtrick/code_401/glue/Glue_Mon_Class09/Assignment2/obj/Debug/net6.0/Assignment2.pdb
+/home/curtrick/code_401/glue/Glue_Mon_Class09/Assignment2/obj/Debug/net6.0/Assignment2.genruntimeconfig.cache
+/home/curtrick/code_401/glue/Glue_Mon_Class09/Assignment2/obj/Debug/net6.0/ref/Assignment2.dll

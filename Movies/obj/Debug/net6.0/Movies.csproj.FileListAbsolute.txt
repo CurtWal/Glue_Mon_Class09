@@ -1,0 +1,15 @@
+/home/curtrick/code_401/glue/Glue_Mon_Class09/Movies/bin/Debug/net6.0/Movies
+/home/curtrick/code_401/glue/Glue_Mon_Class09/Movies/bin/Debug/net6.0/Movies.deps.json
+/home/curtrick/code_401/glue/Glue_Mon_Class09/Movies/bin/Debug/net6.0/Movies.runtimeconfig.json
+/home/curtrick/code_401/glue/Glue_Mon_Class09/Movies/bin/Debug/net6.0/Movies.dll
+/home/curtrick/code_401/glue/Glue_Mon_Class09/Movies/bin/Debug/net6.0/Movies.pdb
+/home/curtrick/code_401/glue/Glue_Mon_Class09/Movies/obj/Debug/net6.0/Movies.csproj.AssemblyReference.cache
+/home/curtrick/code_401/glue/Glue_Mon_Class09/Movies/obj/Debug/net6.0/Movies.GeneratedMSBuildEditorConfig.editorconfig
+/home/curtrick/code_401/glue/Glue_Mon_Class09/Movies/obj/Debug/net6.0/Movies.AssemblyInfoInputs.cache
+/home/curtrick/code_401/glue/Glue_Mon_Class09/Movies/obj/Debug/net6.0/Movies.AssemblyInfo.cs
+/home/curtrick/code_401/glue/Glue_Mon_Class09/Movies/obj/Debug/net6.0/Movies.csproj.CoreCompileInputs.cache
+/home/curtrick/code_401/glue/Glue_Mon_Class09/Movies/obj/Debug/net6.0/Movies.dll
+/home/curtrick/code_401/glue/Glue_Mon_Class09/Movies/obj/Debug/net6.0/refint/Movies.dll
+/home/curtrick/code_401/glue/Glue_Mon_Class09/Movies/obj/Debug/net6.0/Movies.pdb
+/home/curtrick/code_401/glue/Glue_Mon_Class09/Movies/obj/Debug/net6.0/Movies.genruntimeconfig.cache
+/home/curtrick/code_401/glue/Glue_Mon_Class09/Movies/obj/Debug/net6.0/ref/Movies.dll
